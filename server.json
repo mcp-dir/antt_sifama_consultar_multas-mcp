@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mcp-dir/antt_sifama_consultar_multas-mcp",
+  "title": "ANTT SIFAMA: Consultar Multas",
+  "description": "ANTT SIFAMA: Lookupr Multas, official-source lookup. Platform-hosted, pay per query with prepaid cre",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/mcp-dir/antt_sifama_consultar_multas-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.mcp.ai/p_antt_sifama_consultar_multas"
+    }
+  ]
+}
